@@ -64,11 +64,19 @@ namespace _001_Practice
             });
 
             //iterate
-            for(int i = 0; i < people.Count; i++) 
+            /*for(int i = 0; i < people.Count; i++) 
             {
                 //using indexing to access element of the list
                 Console.WriteLine(people[i].GetInfo()); 
+            }*/
+
+            foreach(var person in people)
+            {
+                Console.WriteLine(person.GetInfo()); 
             }
+
+            //ForEach lambda
+            people.ForEach(person => Console.WriteLine(person.GetInfo())); 
         }
     }
 
