@@ -1,0 +1,7 @@
+D:\Target document\Computer science (RUPP) (Year III)\.NET Programming\001_Practice\bin\Debug\001_Practice.exe.config
+D:\Target document\Computer science (RUPP) (Year III)\.NET Programming\001_Practice\bin\Debug\001_Practice.exe
+D:\Target document\Computer science (RUPP) (Year III)\.NET Programming\001_Practice\bin\Debug\001_Practice.pdb
+D:\Target document\Computer science (RUPP) (Year III)\.NET Programming\001_Practice\obj\Debug\001_Practice.csproj.AssemblyReference.cache
+D:\Target document\Computer science (RUPP) (Year III)\.NET Programming\001_Practice\obj\Debug\001_Practice.csproj.CoreCompileInputs.cache
+D:\Target document\Computer science (RUPP) (Year III)\.NET Programming\001_Practice\obj\Debug\001_Practice.exe
+D:\Target document\Computer science (RUPP) (Year III)\.NET Programming\001_Practice\obj\Debug\001_Practice.pdb
