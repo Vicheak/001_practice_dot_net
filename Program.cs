@@ -75,8 +75,12 @@ namespace _001_Practice
                 Console.WriteLine(person.GetInfo()); 
             }
 
+            //functional programming
             //ForEach lambda
-            people.ForEach(person => Console.WriteLine(person.GetInfo())); 
+            people.ForEach(person => Console.WriteLine(person.GetInfo()));
+            Console.WriteLine(people.Sum(person => person.age));
+
+            //imperative and declarative
         }
     }
 
