@@ -44,10 +44,24 @@ namespace _001_Practice
 
             //generics class
             List<Person> people = new List<Person>();
-            var dara = new Person("dara", 23, "phnom penh");
+            //var dara = new Person("dara", 23, "phnom penh");
+
+            //object initializer
+            var dara = new Person()
+            {
+                name = "dara",
+                age = 23,
+                address = "phnom penh",
+            };
             people.Add(dara);
 
-            people.Add(new Person("thida", 25, "kandal")); 
+            //people.Add(new Person("thida", 25, "kandal")); 
+            people.Add(new Person()
+            {
+                name = "thida",
+                age = 25,
+                address = "kandal"
+            });
 
             //iterate
             for(int i = 0; i < people.Count; i++) 
